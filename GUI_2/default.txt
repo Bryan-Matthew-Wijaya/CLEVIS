@@ -1,0 +1,10 @@
+rectangle r1 10 10 30 20
+rectangle r1 10 10 30 20
+circle c1 50 50 15
+circle c1 50 50 15
+group group1 r1 c1
+group group1 r1 c1
+group group1 r1 c1
+group group1 r1 c1
+group group2 r1 c1
+group group2 r1 c1
